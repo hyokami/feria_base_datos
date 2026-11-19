@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Feria Académica | Bases de Datos & Probabilidad</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+
+    <!-- Barra de Navegación Superior -->
+    <header class="navbar">
+        <div class="logo">DataProb <span>Feria 2026</span></div>
+        <nav class="nav-links">
+            <button class="nav-btn active" onclick="mostrarSeccion('hub', this)">Inicio</button>
+            <button class="nav-btn" onclick="mostrarSeccion('champions', this)">UEFA Champions</button>
+            <button class="nav-btn" onclick="mostrarSeccion('gachapon', this)">Gachapón</button>
+            <button class="nav-btn" onclick="mostrarSeccion('grammy', this)">Latin Grammy</button>
+        </nav>
+        <div class="user-badge">
+            <input type="text" id="aliasInput" placeholder="Tu apodo..." maxlength="15">
+        </div>
+    </header>
+
+    <main class="container">
+
+        <!-- SECCIÓN 1: HUB PRINCIPAL -->
+        <section id="hub" class="view active">
+            <div class="hero">
+                <h1>Laboratorio Interactivo de Probabilidad y Datos</h1>
+                <p>Explora cómo los modelos matemáticos y las bases de datos relacionales predicen torneos, premiaciones
+                    y sistemas de recompensas en tiempo real.</p>
+            </div>
+
+            <div class="cards-grid">
+                <div class="card card-champions">
+                    <span class="tag">Elo + Monte Carlo</span>
+                    <h2>UEFA Champions League</h2>
+                    <p>Simula las eliminatorias desde octavos hasta la final (2027-2028) usando datos históricos y
+                        puntajes de poder.</p>
+                    <button class="btn-primary" onclick="irDesdeTarjeta('champions')">Entrar al Simulador</button>
+                </div>
+
+                <div class="card card-gachapon">
+                    <span class="tag">Azar Ponderado + Pity</span>
+                    <h2>Cofre Gachapón</h2>
+                    <p>Pon a prueba la Ley de los Grandes Números abriendo cofres con inventario real y garantía
+                        Legendaria.</p>
+                    <button class="btn-primary" onclick="irDesdeTarjeta('gachapon')">Abrir Cofres</button>
+                </div>
+
+                <div class="card card-grammy">
+                    <span class="tag">Teorema de Bayes</span>
+                    <h2>Latin Grammy 2026-2027</h2>
+                    <p>Analiza el impacto del streaming y la crítica para calcular quién se llevará el gramófono dorado.
+                    </p>
+                    <button class="btn-primary" onclick="irDesdeTarjeta('grammy')">Ver Predicciones</button>
+                </div>
+            </div>
+        </section>
+
+        <!-- SECCIÓN 2: CHAMPIONS LEAGUE -->
+        <section id="champions" class="view">
+            <div class="section-header">
+                <div>
+                    <h2>Predicción UEFA Champions League</h2>
+                    <p>Modelo Elo y simulación Monte Carlo sobre historial UEFA.</p>
+                </div>
+                <div class="controls">
+                    <select id="temporadaSelect" class="input-select">
+                        <option value="2027">Temporada 2027</option>
+                        <option value="2028">Temporada 2028</option>
+                    </select>
+                    <button class="btn-primary" onclick="simularChampionsDemo()">Simular Eliminatorias</button>
+                </div>
+            </div>
+
+            <div class="panel-box">
+                <h3>Tu Predicción de Campeón</h3>
+                <div class="predict-row">
+                    <select id="equipoUsuario" class="input-select">
+                        <option value="Real Madrid">Real Madrid (Elo: 1940)</option>
+                        <option value="Manchester City">Manchester City (Elo: 1925)</option>
+                        <option value="Bayern Múnich">Bayern Múnich (Elo: 1890)</option>
+                        <option value="Arsenal">Arsenal (Elo: 1875)</option>
+                    </select>
+                    <button class="btn-secondary" onclick="guardarPrediccionChampions()">Registrar Elección</button>
+                </div>
+                <p id="msgChampions" class="feedback-msg"></p>
+            </div>
+
+            <!-- Vista previa de Llaves -->
+            <div class="bracket-grid" id="bracketResultado">
+                <div class="bracket-col">
+                    <h4>Semifinales (Simulación)</h4>
+                    <div class="match-card">Real Madrid vs Bayern Múnich</div>
+                    <div class="match-card">Manchester City vs Arsenal</div>
+                </div>
+                <div class="bracket-col">
+                    <h4>Gran Final</h4>
+                    <div class="match-card highlight">Pendiente de simulación...</div>
+                </div>
+            </div>
+        </section>
+
+        <!-- SECCIÓN 3: SISTEMA GACHAPÓN -->
+        <section id="gachapon" class="view">
+            <div class="section-header">
+                <div>
+                    <h2>Cofre Gachapón Interactivo</h2>
+                    <p>Sistema probabilístico con control de inventario y garantía Legendaria.</p>
+                </div>
+                <div class="pity-badge">
+                    Garantía Legendaria: <strong id="pityCount">14 / 20</strong> tiradas
+                </div>
+            </div>
+
+            <div class="gacha-layout">
+                <!-- Panel Izquierdo: Transparencia -->
+                <div class="panel-box">
+                    <h3>Tasas de Probabilidad[cite: 3]</h3>
+                    <ul class="rates-list">
+                        <li><span class="dot comun"></span> Común (60%)</li>
+                        <li><span class="dot especial"></span> Especial (25%)</li>
+                        <li><span class="dot epico"></span> Épico (12%)</li>
+                        <li><span class="dot legendario"></span> Legendario (3%)</li>
+                    </ul>
+                </div>
+
+                <!-- Panel Central: Cofre -->
+                <div class="panel-box center-box">
+                    <div id="cofreVisual" class="chest-box">📦</div>
+                    <p id="premioTexto" class="reward-text">Listo para abrir</p>
+                    <p class="sub-text">Intentos disponibles: <strong id="intentosUser">3</strong></p>
+                    <button class="btn-primary btn-large" onclick="abrirCofreDemo()">Abrir Cofre</button>
+                </div>
+
+                <!-- Panel Derecho: Historial -->
+                <div class="panel-box">
+                    <h3>Últimos Premios</h3>
+                    <ul id="historialGacha" class="history-list">
+                        <li>Ana ganó: Sticker Holográfico (Especial)</li>
+                        <li>Luis ganó: Llavero Dorado (Legendario - Pity)</li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+
+        <!-- SECCIÓN 4: LATIN GRAMMY -->
+        <section id="grammy" class="view">
+            <div class="section-header">
+                <div>
+                    <h2>Predicción Latin Grammy</h2>
+                    <p>Inferencia Bayesiana basada en historial de la Academia y streaming[cite: 7, 9].</p>
+                </div>
+                <div class="controls">
+                    <select id="categoriaGrammy" class="input-select">
+                        <option value="album">Álbum del Año (2026)</option>
+                        <option value="cancion">Canción del Año (2026)</option>
+                    </select>
+                </div>
+            </div>
+
+            <div class="nominees-list">
+                <div class="nominee-card">
+                    <div class="nominee-info">
+                        <h4>Artista Nominado A — "Obra Ejemplo 1"</h4>
+                        <p>Prob. Clásica: 25% | Streaming Top: Sí</p>
+                    </div>
+                    <div class="nominee-prob">
+                        <span class="prob-value">42.5%</span>
+                        <button class="btn-secondary" onclick="votarGrammy('Artista Nominado A')">Elegir</button>
+                    </div>
+                </div>
+
+                <div class="nominee-card">
+                    <div class="nominee-info">
+                        <h4>Artista Nominado B — "Obra Ejemplo 2"</h4>
+                        <p>Prob. Clásica: 25% | Crítica Especializada: Alta</p>
+                    </div>
+                    <div class="nominee-prob">
+                        <span class="prob-value">31.0%</span>
+                        <button class="btn-secondary" onclick="votarGrammy('Artista Nominado B')">Elegir</button>
+                    </div>
+                </div>
+            </div>
+            <p id="msgGrammy" class="feedback-msg"></p>
+        </section>
+
+    </main>
+
+    <script src="app.js"></script>
+</body>
+
+</html>

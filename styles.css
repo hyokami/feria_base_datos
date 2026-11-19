@@ -1,0 +1,355 @@
+:root {
+    --bg-main: #0f172a;
+    --bg-card: #1e293b;
+    --bg-hover: #334155;
+    --text-main: #f8fafc;
+    --text-muted: #94a3b8;
+    --accent: #3b82f6;
+    --accent-hover: #2563eb;
+    --gold: #f59e0b;
+    --purple: #a855f7;
+    --green: #10b981;
+    --border: #334155;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', system-ui, sans-serif;
+}
+
+body {
+    background-color: var(--bg-main);
+    color: var(--text-main);
+    line-height: 1.5;
+}
+
+/* Barra superior */
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 2rem;
+    background-color: var(--bg-card);
+    border-bottom: 1px solid var(--border);
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+
+.logo {
+    font-size: 1.25rem;
+    font-weight: 700;
+}
+
+.logo span {
+    color: var(--accent);
+    font-weight: 400;
+    font-size: 0.9rem;
+}
+
+.nav-links {
+    display: flex;
+    gap: 0.5rem;
+}
+
+.nav-btn {
+    background: transparent;
+    border: none;
+    color: var(--text-muted);
+    padding: 0.5rem 1rem;
+    border-radius: 6px;
+    cursor: pointer;
+    font-weight: 500;
+    transition: 0.2s;
+}
+
+.nav-btn:hover,
+.nav-btn.active {
+    background-color: var(--accent);
+    color: white;
+}
+
+.user-badge input {
+    background-color: var(--bg-main);
+    border: 1px solid var(--border);
+    color: white;
+    padding: 0.4rem 0.8rem;
+    border-radius: 6px;
+}
+
+/* Contenedor principal */
+.container {
+    max-width: 1100px;
+    margin: 2rem auto;
+    padding: 0 1.5rem;
+}
+
+.view {
+    display: none;
+}
+
+.view.active {
+    display: block;
+    animation: fadeIn 0.25s ease;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(6px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* Hub Principal */
+.hero {
+    text-align: center;
+    margin-bottom: 2.5rem;
+}
+
+.hero h1 {
+    font-size: 2rem;
+    margin-bottom: 0.5rem;
+}
+
+.hero p {
+    color: var(--text-muted);
+    max-width: 650px;
+    margin: 0 auto;
+}
+
+.cards-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 1.5rem;
+}
+
+.card {
+    background-color: var(--bg-card);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 1rem;
+}
+
+.card-champions {
+    border-top: 4px solid var(--accent);
+}
+
+.card-gachapon {
+    border-top: 4px solid var(--purple);
+}
+
+.card-grammy {
+    border-top: 4px solid var(--gold);
+}
+
+.tag {
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    color: var(--text-muted);
+}
+
+.card p {
+    color: var(--text-muted);
+    font-size: 0.95rem;
+}
+
+/* Botones y controles */
+.btn-primary {
+    background-color: var(--accent);
+    color: white;
+    border: none;
+    padding: 0.65rem 1.2rem;
+    border-radius: 8px;
+    cursor: pointer;
+    font-weight: 600;
+    transition: 0.2s;
+}
+
+.btn-primary:hover {
+    background-color: var(--accent-hover);
+}
+
+.btn-secondary {
+    background-color: var(--bg-hover);
+    color: white;
+    border: 1px solid var(--border);
+    padding: 0.5rem 1rem;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+.btn-secondary:hover {
+    background-color: var(--accent);
+}
+
+.input-select {
+    background-color: var(--bg-main);
+    color: white;
+    border: 1px solid var(--border);
+    padding: 0.55rem;
+    border-radius: 6px;
+}
+
+/* Secciones Internas */
+.section-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1.5rem;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+
+.section-header p {
+    color: var(--text-muted);
+}
+
+.panel-box {
+    background-color: var(--bg-card);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 1.25rem;
+    margin-bottom: 1.5rem;
+}
+
+.predict-row {
+    display: flex;
+    gap: 0.75rem;
+    margin-top: 0.75rem;
+}
+
+.feedback-msg {
+    margin-top: 0.75rem;
+    color: var(--green);
+    font-size: 0.9rem;
+}
+
+/* Champions Llaves */
+.bracket-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    gap: 1.5rem;
+}
+
+.match-card {
+    background-color: var(--bg-card);
+    border: 1px solid var(--border);
+    padding: 1rem;
+    border-radius: 8px;
+    margin-top: 0.75rem;
+}
+
+.match-card.highlight {
+    border-color: var(--accent);
+    font-weight: 600;
+}
+
+/* Gachapón */
+.pity-badge {
+    background-color: var(--bg-card);
+    border: 1px solid var(--gold);
+    padding: 0.5rem 1rem;
+    border-radius: 8px;
+    color: var(--gold);
+}
+
+.gacha-layout {
+    display: grid;
+    grid-template-columns: 1fr 1.3fr 1fr;
+    gap: 1.25rem;
+}
+
+@media (max-width: 850px) {
+    .gacha-layout {
+        grid-template-columns: 1fr;
+    }
+}
+
+.center-box {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 0.8rem;
+}
+
+.chest-box {
+    font-size: 4rem;
+    transition: transform 0.3s;
+}
+
+.rates-list,
+.history-list {
+    list-style: none;
+    margin-top: 0.8rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.6rem;
+    font-size: 0.9rem;
+    color: var(--text-muted);
+}
+
+.dot {
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    margin-right: 6px;
+}
+
+.dot.comun {
+    background-color: #94a3b8;
+}
+
+.dot.especial {
+    background-color: var(--green);
+}
+
+.dot.epico {
+    background-color: var(--purple);
+}
+
+.dot.legendario {
+    background-color: var(--gold);
+}
+
+/* Grammys */
+.nominees-list {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.nominee-card {
+    background-color: var(--bg-card);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 1.2rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nominee-prob {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+.prob-value {
+    font-size: 1.25rem;
+    font-weight: 700;
+    color: var(--gold);
+}
