@@ -1,0 +1,753 @@
+temporada,fase,equipo_local,equipo_visitante,goles_local,goles_visitante
+2022,UEFA Champions League 2021/22,Manchester City,RB Leipzig,6,3
+2022,UEFA Champions League 2021/22,Club Brugge KV,Paris Saint-Germain,1,1
+2022,UEFA Champions League 2021/22,Paris Saint-Germain,Manchester City,2,0
+2022,UEFA Champions League 2021/22,RB Leipzig,Club Brugge KV,1,2
+2022,UEFA Champions League 2021/22,Club Brugge KV,Manchester City,1,5
+2022,UEFA Champions League 2021/22,Paris Saint-Germain,RB Leipzig,3,2
+2022,UEFA Champions League 2021/22,RB Leipzig,Paris Saint-Germain,2,2
+2022,UEFA Champions League 2021/22,Manchester City,Club Brugge KV,4,1
+2022,UEFA Champions League 2021/22,Manchester City,Paris Saint-Germain,2,1
+2022,UEFA Champions League 2021/22,Club Brugge KV,RB Leipzig,0,5
+2022,UEFA Champions League 2021/22,RB Leipzig,Manchester City,2,1
+2022,UEFA Champions League 2021/22,Paris Saint-Germain,Club Brugge KV,4,1
+2022,UEFA Champions League 2021/22,Atlético de Madrid,FC Porto,0,0
+2022,UEFA Champions League 2021/22,Liverpool,AC Milan,3,2
+2022,UEFA Champions League 2021/22,FC Porto,Liverpool,1,5
+2022,UEFA Champions League 2021/22,AC Milan,Atlético de Madrid,1,2
+2022,UEFA Champions League 2021/22,Atlético de Madrid,Liverpool,2,3
+2022,UEFA Champions League 2021/22,FC Porto,AC Milan,1,0
+2022,UEFA Champions League 2021/22,AC Milan,FC Porto,1,1
+2022,UEFA Champions League 2021/22,Liverpool,Atlético de Madrid,2,0
+2022,UEFA Champions League 2021/22,Liverpool,FC Porto,2,0
+2022,UEFA Champions League 2021/22,Atlético de Madrid,AC Milan,0,1
+2022,UEFA Champions League 2021/22,FC Porto,Atlético de Madrid,1,3
+2022,UEFA Champions League 2021/22,AC Milan,Liverpool,1,2
+2022,UEFA Champions League 2021/22,Beşiktaş,Borussia Dortmund,1,2
+2022,UEFA Champions League 2021/22,Sporting CP,AFC Ajax,1,5
+2022,UEFA Champions League 2021/22,AFC Ajax,Beşiktaş,2,0
+2022,UEFA Champions League 2021/22,Borussia Dortmund,Sporting CP,1,0
+2022,UEFA Champions League 2021/22,Beşiktaş,Sporting CP,1,4
+2022,UEFA Champions League 2021/22,AFC Ajax,Borussia Dortmund,4,0
+2022,UEFA Champions League 2021/22,Borussia Dortmund,AFC Ajax,1,3
+2022,UEFA Champions League 2021/22,Sporting CP,Beşiktaş,4,0
+2022,UEFA Champions League 2021/22,Beşiktaş,AFC Ajax,1,2
+2022,UEFA Champions League 2021/22,Sporting CP,Borussia Dortmund,3,1
+2022,UEFA Champions League 2021/22,AFC Ajax,Sporting CP,4,2
+2022,UEFA Champions League 2021/22,Borussia Dortmund,Beşiktaş,5,0
+2022,UEFA Champions League 2021/22,FC Sheriff,Shakhtar Donetsk,2,0
+2022,UEFA Champions League 2021/22,Inter de Milán,Real Madrid,0,1
+2022,UEFA Champions League 2021/22,Shakhtar Donetsk,Inter de Milán,0,0
+2022,UEFA Champions League 2021/22,Real Madrid,FC Sheriff,1,2
+2022,UEFA Champions League 2021/22,Shakhtar Donetsk,Real Madrid,0,5
+2022,UEFA Champions League 2021/22,Inter de Milán,FC Sheriff,3,1
+2022,UEFA Champions League 2021/22,Real Madrid,Shakhtar Donetsk,2,1
+2022,UEFA Champions League 2021/22,FC Sheriff,Inter de Milán,1,3
+2022,UEFA Champions League 2021/22,Inter de Milán,Shakhtar Donetsk,2,0
+2022,UEFA Champions League 2021/22,FC Sheriff,Real Madrid,0,3
+2022,UEFA Champions League 2021/22,Real Madrid,Inter de Milán,2,0
+2022,UEFA Champions League 2021/22,Shakhtar Donetsk,FC Sheriff,1,1
+2022,UEFA Champions League 2021/22,FC Barcelona,Bayern Múnich,0,3
+2022,UEFA Champions League 2021/22,Dinamo Kiev,SL Benfica,0,0
+2022,UEFA Champions League 2021/22,SL Benfica,FC Barcelona,3,0
+2022,UEFA Champions League 2021/22,Bayern Múnich,Dinamo Kiev,5,0
+2022,UEFA Champions League 2021/22,FC Barcelona,Dinamo Kiev,1,0
+2022,UEFA Champions League 2021/22,SL Benfica,Bayern Múnich,0,4
+2022,UEFA Champions League 2021/22,Bayern Múnich,SL Benfica,5,2
+2022,UEFA Champions League 2021/22,Dinamo Kiev,FC Barcelona,0,1
+2022,UEFA Champions League 2021/22,Dinamo Kiev,Bayern Múnich,1,2
+2022,UEFA Champions League 2021/22,FC Barcelona,SL Benfica,0,0
+2022,UEFA Champions League 2021/22,Bayern Múnich,FC Barcelona,3,0
+2022,UEFA Champions League 2021/22,SL Benfica,Dinamo Kiev,2,0
+2022,UEFA Champions League 2021/22,BSC Young Boys,Manchester United,2,1
+2022,UEFA Champions League 2021/22,Villarreal CF,Atalanta,2,2
+2022,UEFA Champions League 2021/22,Atalanta,BSC Young Boys,1,0
+2022,UEFA Champions League 2021/22,Manchester United,Villarreal CF,2,1
+2022,UEFA Champions League 2021/22,Manchester United,Atalanta,3,2
+2022,UEFA Champions League 2021/22,BSC Young Boys,Villarreal CF,1,4
+2022,UEFA Champions League 2021/22,Atalanta,Manchester United,2,2
+2022,UEFA Champions League 2021/22,Villarreal CF,BSC Young Boys,2,0
+2022,UEFA Champions League 2021/22,Villarreal CF,Manchester United,0,2
+2022,UEFA Champions League 2021/22,BSC Young Boys,Atalanta,3,3
+2022,UEFA Champions League 2021/22,Manchester United,BSC Young Boys,1,1
+2022,UEFA Champions League 2021/22,Atalanta,Villarreal CF,2,3
+2022,UEFA Champions League 2021/22,Sevilla FC,RB Salzburg,1,1
+2022,UEFA Champions League 2021/22,Lille OSC,VfL Wolfsburg,0,0
+2022,UEFA Champions League 2021/22,RB Salzburg,Lille OSC,2,1
+2022,UEFA Champions League 2021/22,VfL Wolfsburg,Sevilla FC,1,1
+2022,UEFA Champions League 2021/22,RB Salzburg,VfL Wolfsburg,3,1
+2022,UEFA Champions League 2021/22,Lille OSC,Sevilla FC,0,0
+2022,UEFA Champions League 2021/22,VfL Wolfsburg,RB Salzburg,2,1
+2022,UEFA Champions League 2021/22,Sevilla FC,Lille OSC,1,2
+2022,UEFA Champions League 2021/22,Lille OSC,RB Salzburg,1,0
+2022,UEFA Champions League 2021/22,Sevilla FC,VfL Wolfsburg,2,0
+2022,UEFA Champions League 2021/22,RB Salzburg,Sevilla FC,1,0
+2022,UEFA Champions League 2021/22,VfL Wolfsburg,Lille OSC,1,3
+2022,UEFA Champions League 2021/22,Chelsea FC,Zenit St. Petersburg,1,0
+2022,UEFA Champions League 2021/22,Malmö FF,Juventus,0,3
+2022,UEFA Champions League 2021/22,Zenit St. Petersburg,Malmö FF,4,0
+2022,UEFA Champions League 2021/22,Juventus,Chelsea FC,1,0
+2022,UEFA Champions League 2021/22,Zenit St. Petersburg,Juventus,0,1
+2022,UEFA Champions League 2021/22,Chelsea FC,Malmö FF,4,0
+2022,UEFA Champions League 2021/22,Malmö FF,Chelsea FC,0,1
+2022,UEFA Champions League 2021/22,Juventus,Zenit St. Petersburg,4,2
+2022,UEFA Champions League 2021/22,Chelsea FC,Juventus,4,0
+2022,UEFA Champions League 2021/22,Malmö FF,Zenit St. Petersburg,1,1
+2022,UEFA Champions League 2021/22,Zenit St. Petersburg,Chelsea FC,3,3
+2022,UEFA Champions League 2021/22,Juventus,Malmö FF,1,0
+2022,UEFA Champions League 2021/22,Sporting CP,Manchester City,0,5
+2022,UEFA Champions League 2021/22,Paris Saint-Germain,Real Madrid,1,0
+2022,UEFA Champions League 2021/22,RB Salzburg,Bayern Múnich,1,1
+2022,UEFA Champions League 2021/22,Inter de Milán,Liverpool,0,2
+2022,UEFA Champions League 2021/22,Chelsea FC,Lille OSC,2,0
+2022,UEFA Champions League 2021/22,Villarreal CF,Juventus,1,1
+2022,UEFA Champions League 2021/22,SL Benfica,AFC Ajax,2,2
+2022,UEFA Champions League 2021/22,Atlético de Madrid,Manchester United,1,1
+2022,UEFA Champions League 2021/22,Bayern Múnich,RB Salzburg,7,1
+2022,UEFA Champions League 2021/22,Liverpool,Inter de Milán,0,1
+2022,UEFA Champions League 2021/22,Manchester City,Sporting CP,0,0
+2022,UEFA Champions League 2021/22,Real Madrid,Paris Saint-Germain,3,1
+2022,UEFA Champions League 2021/22,AFC Ajax,SL Benfica,0,1
+2022,UEFA Champions League 2021/22,Manchester United,Atlético de Madrid,0,1
+2022,UEFA Champions League 2021/22,Lille OSC,Chelsea FC,1,2
+2022,UEFA Champions League 2021/22,Juventus,Villarreal CF,0,3
+2022,UEFA Champions League 2021/22,Manchester City,Atlético de Madrid,1,0
+2022,UEFA Champions League 2021/22,SL Benfica,Liverpool,1,3
+2022,UEFA Champions League 2021/22,Chelsea FC,Real Madrid,1,3
+2022,UEFA Champions League 2021/22,Villarreal CF,Bayern Múnich,1,0
+2022,UEFA Champions League 2021/22,Real Madrid,Chelsea FC,2,3
+2022,UEFA Champions League 2021/22,Bayern Múnich,Villarreal CF,1,1
+2022,UEFA Champions League 2021/22,Atlético de Madrid,Manchester City,0,0
+2022,UEFA Champions League 2021/22,Liverpool,SL Benfica,3,3
+2022,UEFA Champions League 2021/22,Manchester City,Real Madrid,4,3
+2022,UEFA Champions League 2021/22,Liverpool,Villarreal CF,2,0
+2022,UEFA Champions League 2021/22,Villarreal CF,Liverpool,2,3
+2022,UEFA Champions League 2021/22,Real Madrid,Manchester City,3,1
+2022,UEFA Champions League 2021/22,Liverpool,Real Madrid,0,1
+2023,UEFA Champions League 2022/23,AFC Ajax,Rangers FC,4,0
+2023,UEFA Champions League 2022/23,SSC Napoli,Liverpool,4,1
+2023,UEFA Champions League 2022/23,Liverpool,AFC Ajax,2,1
+2023,UEFA Champions League 2022/23,Rangers FC,SSC Napoli,0,3
+2023,UEFA Champions League 2022/23,AFC Ajax,SSC Napoli,1,6
+2023,UEFA Champions League 2022/23,Liverpool,Rangers FC,2,0
+2023,UEFA Champions League 2022/23,SSC Napoli,AFC Ajax,4,2
+2023,UEFA Champions League 2022/23,Rangers FC,Liverpool,1,7
+2023,UEFA Champions League 2022/23,AFC Ajax,Liverpool,0,3
+2023,UEFA Champions League 2022/23,SSC Napoli,Rangers FC,3,0
+2023,UEFA Champions League 2022/23,Rangers FC,AFC Ajax,1,3
+2023,UEFA Champions League 2022/23,Liverpool,SSC Napoli,2,0
+2023,UEFA Champions League 2022/23,Atlético de Madrid,FC Porto,2,1
+2023,UEFA Champions League 2022/23,Club Brugge KV,Bayer Leverkusen,1,0
+2023,UEFA Champions League 2022/23,Bayer Leverkusen,Atlético de Madrid,2,0
+2023,UEFA Champions League 2022/23,FC Porto,Club Brugge KV,0,4
+2023,UEFA Champions League 2022/23,Club Brugge KV,Atlético de Madrid,2,0
+2023,UEFA Champions League 2022/23,FC Porto,Bayer Leverkusen,2,0
+2023,UEFA Champions League 2022/23,Atlético de Madrid,Club Brugge KV,0,0
+2023,UEFA Champions League 2022/23,Bayer Leverkusen,FC Porto,0,3
+2023,UEFA Champions League 2022/23,Club Brugge KV,FC Porto,0,4
+2023,UEFA Champions League 2022/23,Atlético de Madrid,Bayer Leverkusen,2,2
+2023,UEFA Champions League 2022/23,FC Porto,Atlético de Madrid,2,1
+2023,UEFA Champions League 2022/23,Bayer Leverkusen,Club Brugge KV,0,0
+2023,UEFA Champions League 2022/23,Inter de Milán,Bayern Múnich,0,2
+2023,UEFA Champions League 2022/23,FC Barcelona,Viktoria Plzeň,5,1
+2023,UEFA Champions League 2022/23,Viktoria Plzeň,Inter de Milán,0,2
+2023,UEFA Champions League 2022/23,Bayern Múnich,FC Barcelona,2,0
+2023,UEFA Champions League 2022/23,Bayern Múnich,Viktoria Plzeň,5,0
+2023,UEFA Champions League 2022/23,Inter de Milán,FC Barcelona,1,0
+2023,UEFA Champions League 2022/23,Viktoria Plzeň,Bayern Múnich,2,4
+2023,UEFA Champions League 2022/23,FC Barcelona,Inter de Milán,3,3
+2023,UEFA Champions League 2022/23,Inter de Milán,Viktoria Plzeň,4,0
+2023,UEFA Champions League 2022/23,FC Barcelona,Bayern Múnich,0,3
+2023,UEFA Champions League 2022/23,Bayern Múnich,Inter de Milán,2,0
+2023,UEFA Champions League 2022/23,Viktoria Plzeň,FC Barcelona,2,4
+2023,UEFA Champions League 2022/23,Eintracht Frankfurt,Sporting CP,0,3
+2023,UEFA Champions League 2022/23,Tottenham Hotspur,Olympique Marseille,2,0
+2023,UEFA Champions League 2022/23,Sporting CP,Tottenham Hotspur,2,0
+2023,UEFA Champions League 2022/23,Olympique Marseille,Eintracht Frankfurt,0,1
+2023,UEFA Champions League 2022/23,Olympique Marseille,Sporting CP,4,1
+2023,UEFA Champions League 2022/23,Eintracht Frankfurt,Tottenham Hotspur,0,0
+2023,UEFA Champions League 2022/23,Tottenham Hotspur,Eintracht Frankfurt,3,2
+2023,UEFA Champions League 2022/23,Sporting CP,Olympique Marseille,0,2
+2023,UEFA Champions League 2022/23,Eintracht Frankfurt,Olympique Marseille,2,1
+2023,UEFA Champions League 2022/23,Tottenham Hotspur,Sporting CP,1,1
+2023,UEFA Champions League 2022/23,Sporting CP,Eintracht Frankfurt,1,2
+2023,UEFA Champions League 2022/23,Olympique Marseille,Tottenham Hotspur,1,2
+2023,UEFA Champions League 2022/23,Dinamo Zagreb,Chelsea FC,1,0
+2023,UEFA Champions League 2022/23,RB Salzburg,AC Milan,1,1
+2023,UEFA Champions League 2022/23,AC Milan,Dinamo Zagreb,3,1
+2023,UEFA Champions League 2022/23,Chelsea FC,RB Salzburg,1,1
+2023,UEFA Champions League 2022/23,RB Salzburg,Dinamo Zagreb,1,0
+2023,UEFA Champions League 2022/23,Chelsea FC,AC Milan,3,0
+2023,UEFA Champions League 2022/23,AC Milan,Chelsea FC,0,2
+2023,UEFA Champions League 2022/23,Dinamo Zagreb,RB Salzburg,1,1
+2023,UEFA Champions League 2022/23,RB Salzburg,Chelsea FC,1,2
+2023,UEFA Champions League 2022/23,Dinamo Zagreb,AC Milan,0,4
+2023,UEFA Champions League 2022/23,AC Milan,RB Salzburg,4,0
+2023,UEFA Champions League 2022/23,Chelsea FC,Dinamo Zagreb,2,1
+2023,UEFA Champions League 2022/23,Celtic FC,Real Madrid,0,3
+2023,UEFA Champions League 2022/23,RB Leipzig,Shakhtar Donetsk,1,4
+2023,UEFA Champions League 2022/23,Shakhtar Donetsk,Celtic FC,1,1
+2023,UEFA Champions League 2022/23,Real Madrid,RB Leipzig,2,0
+2023,UEFA Champions League 2022/23,RB Leipzig,Celtic FC,3,1
+2023,UEFA Champions League 2022/23,Real Madrid,Shakhtar Donetsk,2,1
+2023,UEFA Champions League 2022/23,Celtic FC,RB Leipzig,0,2
+2023,UEFA Champions League 2022/23,Shakhtar Donetsk,Real Madrid,1,1
+2023,UEFA Champions League 2022/23,Celtic FC,Shakhtar Donetsk,1,1
+2023,UEFA Champions League 2022/23,RB Leipzig,Real Madrid,3,2
+2023,UEFA Champions League 2022/23,Real Madrid,Celtic FC,5,1
+2023,UEFA Champions League 2022/23,Shakhtar Donetsk,RB Leipzig,0,4
+2023,UEFA Champions League 2022/23,Borussia Dortmund,FC København,3,0
+2023,UEFA Champions League 2022/23,Sevilla FC,Manchester City,0,4
+2023,UEFA Champions League 2022/23,Manchester City,Borussia Dortmund,2,1
+2023,UEFA Champions League 2022/23,FC København,Sevilla FC,0,0
+2023,UEFA Champions League 2022/23,Sevilla FC,Borussia Dortmund,1,4
+2023,UEFA Champions League 2022/23,Manchester City,FC København,5,0
+2023,UEFA Champions League 2022/23,FC København,Manchester City,0,0
+2023,UEFA Champions League 2022/23,Borussia Dortmund,Sevilla FC,1,1
+2023,UEFA Champions League 2022/23,Sevilla FC,FC København,3,0
+2023,UEFA Champions League 2022/23,Borussia Dortmund,Manchester City,0,0
+2023,UEFA Champions League 2022/23,FC København,Borussia Dortmund,1,1
+2023,UEFA Champions League 2022/23,Manchester City,Sevilla FC,3,1
+2023,UEFA Champions League 2022/23,Paris Saint-Germain,Juventus,2,1
+2023,UEFA Champions League 2022/23,SL Benfica,Maccabi Haifa,2,0
+2023,UEFA Champions League 2022/23,Juventus,SL Benfica,1,2
+2023,UEFA Champions League 2022/23,Maccabi Haifa,Paris Saint-Germain,1,3
+2023,UEFA Champions League 2022/23,Juventus,Maccabi Haifa,3,1
+2023,UEFA Champions League 2022/23,SL Benfica,Paris Saint-Germain,1,1
+2023,UEFA Champions League 2022/23,Maccabi Haifa,Juventus,2,0
+2023,UEFA Champions League 2022/23,Paris Saint-Germain,SL Benfica,1,1
+2023,UEFA Champions League 2022/23,SL Benfica,Juventus,4,3
+2023,UEFA Champions League 2022/23,Paris Saint-Germain,Maccabi Haifa,7,2
+2023,UEFA Champions League 2022/23,Juventus,Paris Saint-Germain,1,2
+2023,UEFA Champions League 2022/23,Maccabi Haifa,SL Benfica,1,6
+2023,UEFA Champions League 2022/23,AC Milan,Tottenham Hotspur,1,0
+2023,UEFA Champions League 2022/23,Paris Saint-Germain,Bayern Múnich,0,1
+2023,UEFA Champions League 2022/23,Club Brugge KV,SL Benfica,0,2
+2023,UEFA Champions League 2022/23,Borussia Dortmund,Chelsea FC,1,0
+2023,UEFA Champions League 2022/23,Liverpool,Real Madrid,2,5
+2023,UEFA Champions League 2022/23,Eintracht Frankfurt,SSC Napoli,0,2
+2023,UEFA Champions League 2022/23,RB Leipzig,Manchester City,1,1
+2023,UEFA Champions League 2022/23,Inter de Milán,FC Porto,1,0
+2023,UEFA Champions League 2022/23,SL Benfica,Club Brugge KV,5,1
+2023,UEFA Champions League 2022/23,Chelsea FC,Borussia Dortmund,2,0
+2023,UEFA Champions League 2022/23,Bayern Múnich,Paris Saint-Germain,2,0
+2023,UEFA Champions League 2022/23,Tottenham Hotspur,AC Milan,0,0
+2023,UEFA Champions League 2022/23,Manchester City,RB Leipzig,7,0
+2023,UEFA Champions League 2022/23,FC Porto,Inter de Milán,0,0
+2023,UEFA Champions League 2022/23,Real Madrid,Liverpool,1,0
+2023,UEFA Champions League 2022/23,SSC Napoli,Eintracht Frankfurt,3,0
+2023,UEFA Champions League 2022/23,SL Benfica,Inter de Milán,0,2
+2023,UEFA Champions League 2022/23,Manchester City,Bayern Múnich,3,0
+2023,UEFA Champions League 2022/23,Real Madrid,Chelsea FC,2,0
+2023,UEFA Champions League 2022/23,AC Milan,SSC Napoli,1,0
+2023,UEFA Champions League 2022/23,Chelsea FC,Real Madrid,0,2
+2023,UEFA Champions League 2022/23,SSC Napoli,AC Milan,1,1
+2023,UEFA Champions League 2022/23,Inter de Milán,SL Benfica,3,3
+2023,UEFA Champions League 2022/23,Bayern Múnich,Manchester City,1,1
+2023,UEFA Champions League 2022/23,Real Madrid,Manchester City,1,1
+2023,UEFA Champions League 2022/23,AC Milan,Inter de Milán,0,2
+2023,UEFA Champions League 2022/23,Inter de Milán,AC Milan,1,0
+2023,UEFA Champions League 2022/23,Manchester City,Real Madrid,4,0
+2023,UEFA Champions League 2022/23,Manchester City,Inter de Milán,1,0
+2024,UEFA Champions League 2023/24,AC Milan,Newcastle United FC,0,0
+2024,UEFA Champions League 2023/24,BSC Young Boys,RB Leipzig,1,3
+2024,UEFA Champions League 2023/24,SS Lazio,Atlético de Madrid,1,1
+2024,UEFA Champions League 2023/24,Feyenoord Rotterdam,Celtic FC,2,0
+2024,UEFA Champions League 2023/24,Paris Saint-Germain,Borussia Dortmund,2,0
+2024,UEFA Champions League 2023/24,Manchester City,FK Crvena Zvezda,3,1
+2024,UEFA Champions League 2023/24,FC Barcelona,Royal Antwerp FC,5,0
+2024,UEFA Champions League 2023/24,FK Shakhtar Donetsk,FC Porto,1,3
+2024,UEFA Champions League 2023/24,Real Madrid,1. FC Union Berlin,1,0
+2024,UEFA Champions League 2023/24,Galatasaray SK,FC København,2,2
+2024,UEFA Champions League 2023/24,Sevilla FC,Racing Club de Lens,1,1
+2024,UEFA Champions League 2023/24,Sporting Clube de Braga,SSC Napoli,1,2
+2024,UEFA Champions League 2023/24,Real Sociedad de Fútbol,Inter de Milán,1,1
+2024,UEFA Champions League 2023/24,SL Benfica,FC Red Bull Salzburg,0,2
+2024,UEFA Champions League 2023/24,Bayern Múnich,Manchester United FC,4,3
+2024,UEFA Champions League 2023/24,Arsenal,PSV Eindhoven,4,0
+2024,UEFA Champions League 2023/24,1. FC Union Berlin,Sporting Clube de Braga,2,3
+2024,UEFA Champions League 2023/24,FC Red Bull Salzburg,Real Sociedad de Fútbol,0,2
+2024,UEFA Champions League 2023/24,SSC Napoli,Real Madrid,2,3
+2024,UEFA Champions League 2023/24,Inter de Milán,SL Benfica,1,0
+2024,UEFA Champions League 2023/24,FC København,Bayern Múnich,1,2
+2024,UEFA Champions League 2023/24,Manchester United FC,Galatasaray SK,2,3
+2024,UEFA Champions League 2023/24,Racing Club de Lens,Arsenal,2,1
+2024,UEFA Champions League 2023/24,PSV Eindhoven,Sevilla FC,2,2
+2024,UEFA Champions League 2023/24,Atlético de Madrid,Feyenoord Rotterdam,3,2
+2024,UEFA Champions League 2023/24,Royal Antwerp FC,FK Shakhtar Donetsk,2,3
+2024,UEFA Champions League 2023/24,Celtic FC,SS Lazio,1,2
+2024,UEFA Champions League 2023/24,Borussia Dortmund,AC Milan,0,0
+2024,UEFA Champions League 2023/24,Newcastle United FC,Paris Saint-Germain,4,1
+2024,UEFA Champions League 2023/24,FK Crvena Zvezda,BSC Young Boys,2,2
+2024,UEFA Champions League 2023/24,RB Leipzig,Manchester City,1,3
+2024,UEFA Champions League 2023/24,FC Porto,FC Barcelona,0,1
+2024,UEFA Champions League 2023/24,Inter de Milán,FC Red Bull Salzburg,2,1
+2024,UEFA Champions League 2023/24,Galatasaray SK,Bayern Múnich,1,3
+2024,UEFA Champions League 2023/24,1. FC Union Berlin,SSC Napoli,0,1
+2024,UEFA Champions League 2023/24,Sporting Clube de Braga,Real Madrid,1,2
+2024,UEFA Champions League 2023/24,SL Benfica,Real Sociedad de Fútbol,0,1
+2024,UEFA Champions League 2023/24,Manchester United FC,FC København,1,0
+2024,UEFA Champions League 2023/24,Sevilla FC,Arsenal,1,2
+2024,UEFA Champions League 2023/24,Racing Club de Lens,PSV Eindhoven,1,1
+2024,UEFA Champions League 2023/24,Feyenoord Rotterdam,SS Lazio,3,1
+2024,UEFA Champions League 2023/24,FC Barcelona,FK Shakhtar Donetsk,2,1
+2024,UEFA Champions League 2023/24,Celtic FC,Atlético de Madrid,2,2
+2024,UEFA Champions League 2023/24,Paris Saint-Germain,AC Milan,3,0
+2024,UEFA Champions League 2023/24,Newcastle United FC,Borussia Dortmund,0,1
+2024,UEFA Champions League 2023/24,BSC Young Boys,Manchester City,1,3
+2024,UEFA Champions League 2023/24,RB Leipzig,FK Crvena Zvezda,3,1
+2024,UEFA Champions League 2023/24,Royal Antwerp FC,FC Porto,1,4
+2024,UEFA Champions League 2023/24,Borussia Dortmund,Newcastle United FC,2,0
+2024,UEFA Champions League 2023/24,FK Shakhtar Donetsk,FC Barcelona,1,0
+2024,UEFA Champions League 2023/24,Atlético de Madrid,Celtic FC,6,0
+2024,UEFA Champions League 2023/24,SS Lazio,Feyenoord Rotterdam,1,0
+2024,UEFA Champions League 2023/24,AC Milan,Paris Saint-Germain,2,1
+2024,UEFA Champions League 2023/24,Manchester City,BSC Young Boys,3,0
+2024,UEFA Champions League 2023/24,FK Crvena Zvezda,RB Leipzig,1,2
+2024,UEFA Champions League 2023/24,FC Porto,Royal Antwerp FC,2,0
+2024,UEFA Champions League 2023/24,SSC Napoli,1. FC Union Berlin,1,1
+2024,UEFA Champions League 2023/24,Real Sociedad de Fútbol,SL Benfica,3,1
+2024,UEFA Champions League 2023/24,Real Madrid,Sporting Clube de Braga,3,0
+2024,UEFA Champions League 2023/24,FC Red Bull Salzburg,Inter de Milán,0,1
+2024,UEFA Champions League 2023/24,Bayern Múnich,Galatasaray SK,2,1
+2024,UEFA Champions League 2023/24,FC København,Manchester United FC,4,3
+2024,UEFA Champions League 2023/24,Arsenal,Sevilla FC,2,0
+2024,UEFA Champions League 2023/24,PSV Eindhoven,Racing Club de Lens,1,0
+2024,UEFA Champions League 2023/24,SS Lazio,Celtic FC,2,0
+2024,UEFA Champions League 2023/24,FK Shakhtar Donetsk,Royal Antwerp FC,1,0
+2024,UEFA Champions League 2023/24,Feyenoord Rotterdam,Atlético de Madrid,1,3
+2024,UEFA Champions League 2023/24,AC Milan,Borussia Dortmund,1,3
+2024,UEFA Champions League 2023/24,Paris Saint-Germain,Newcastle United FC,1,1
+2024,UEFA Champions League 2023/24,BSC Young Boys,FK Crvena Zvezda,2,0
+2024,UEFA Champions League 2023/24,Manchester City,RB Leipzig,3,2
+2024,UEFA Champions League 2023/24,FC Barcelona,FC Porto,2,1
+2024,UEFA Champions League 2023/24,Galatasaray SK,Manchester United FC,3,3
+2024,UEFA Champions League 2023/24,Sevilla FC,PSV Eindhoven,2,3
+2024,UEFA Champions League 2023/24,Sporting Clube de Braga,1. FC Union Berlin,1,1
+2024,UEFA Champions League 2023/24,Real Madrid,SSC Napoli,4,2
+2024,UEFA Champions League 2023/24,SL Benfica,Inter de Milán,3,3
+2024,UEFA Champions League 2023/24,Real Sociedad de Fútbol,FC Red Bull Salzburg,0,0
+2024,UEFA Champions League 2023/24,Bayern Múnich,FC København,0,0
+2024,UEFA Champions League 2023/24,Arsenal,Racing Club de Lens,6,0
+2024,UEFA Champions League 2023/24,PSV Eindhoven,Arsenal,1,1
+2024,UEFA Champions League 2023/24,Racing Club de Lens,Sevilla FC,2,1
+2024,UEFA Champions League 2023/24,1. FC Union Berlin,Real Madrid,2,3
+2024,UEFA Champions League 2023/24,SSC Napoli,Sporting Clube de Braga,2,0
+2024,UEFA Champions League 2023/24,Inter de Milán,Real Sociedad de Fútbol,0,0
+2024,UEFA Champions League 2023/24,FC Red Bull Salzburg,SL Benfica,1,3
+2024,UEFA Champions League 2023/24,Manchester United FC,Bayern Múnich,0,1
+2024,UEFA Champions League 2023/24,FC København,Galatasaray SK,1,0
+2024,UEFA Champions League 2023/24,RB Leipzig,BSC Young Boys,2,1
+2024,UEFA Champions League 2023/24,FK Crvena Zvezda,Manchester City,2,3
+2024,UEFA Champions League 2023/24,Atlético de Madrid,SS Lazio,2,0
+2024,UEFA Champions League 2023/24,Celtic FC,Feyenoord Rotterdam,2,1
+2024,UEFA Champions League 2023/24,Newcastle United FC,AC Milan,1,2
+2024,UEFA Champions League 2023/24,Borussia Dortmund,Paris Saint-Germain,1,1
+2024,UEFA Champions League 2023/24,Royal Antwerp FC,FC Barcelona,3,2
+2024,UEFA Champions League 2023/24,FC Porto,FK Shakhtar Donetsk,5,3
+2024,UEFA Champions League 2023/24,FC København,Manchester City,1,3
+2024,UEFA Champions League 2023/24,RB Leipzig,Real Madrid,0,1
+2024,UEFA Champions League 2023/24,Paris Saint-Germain,Real Sociedad de Fútbol,2,0
+2024,UEFA Champions League 2023/24,SS Lazio,Bayern Múnich,1,0
+2024,UEFA Champions League 2023/24,Inter de Milán,Atlético de Madrid,1,0
+2024,UEFA Champions League 2023/24,PSV Eindhoven,Borussia Dortmund,1,1
+2024,UEFA Champions League 2023/24,FC Porto,Arsenal,1,0
+2024,UEFA Champions League 2023/24,SSC Napoli,FC Barcelona,1,1
+2024,UEFA Champions League 2023/24,Real Sociedad de Fútbol,Paris Saint-Germain,1,2
+2024,UEFA Champions League 2023/24,Bayern Múnich,SS Lazio,3,0
+2024,UEFA Champions League 2023/24,Manchester City,FC København,3,1
+2024,UEFA Champions League 2023/24,Real Madrid,RB Leipzig,1,1
+2024,UEFA Champions League 2023/24,Arsenal,FC Porto,4,2
+2024,UEFA Champions League 2023/24,FC Barcelona,SSC Napoli,3,1
+2024,UEFA Champions League 2023/24,Atlético de Madrid,Inter de Milán,3,2
+2024,UEFA Champions League 2023/24,Borussia Dortmund,PSV Eindhoven,2,0
+2024,UEFA Champions League 2023/24,Arsenal,Bayern Múnich,2,2
+2024,UEFA Champions League 2023/24,Real Madrid,Manchester City,3,3
+2024,UEFA Champions League 2023/24,Atlético de Madrid,Borussia Dortmund,2,1
+2024,UEFA Champions League 2023/24,Paris Saint-Germain,FC Barcelona,2,3
+2024,UEFA Champions League 2023/24,Borussia Dortmund,Atlético de Madrid,4,2
+2024,UEFA Champions League 2023/24,FC Barcelona,Paris Saint-Germain,1,4
+2024,UEFA Champions League 2023/24,Bayern Múnich,Arsenal,1,0
+2024,UEFA Champions League 2023/24,Manchester City,Real Madrid,3,4
+2024,UEFA Champions League 2023/24,Bayern Múnich,Real Madrid,2,2
+2024,UEFA Champions League 2023/24,Borussia Dortmund,Paris Saint-Germain,1,0
+2024,UEFA Champions League 2023/24,Paris Saint-Germain,Borussia Dortmund,0,1
+2024,UEFA Champions League 2023/24,Real Madrid,Bayern Múnich,2,1
+2024,UEFA Champions League 2023/24,Borussia Dortmund,Real Madrid,0,2
+2025,UEFA Champions League 2024/25,BSC Young Boys,Aston Villa FC,0,3
+2025,UEFA Champions League 2024/25,Juventus,PSV Eindhoven,3,1
+2025,UEFA Champions League 2024/25,Sporting CP,Lille OSC,2,0
+2025,UEFA Champions League 2024/25,Bayern Múnich,GNK Dinamo Zagreb,9,2
+2025,UEFA Champions League 2024/25,Real Madrid,VfB Stuttgart,3,1
+2025,UEFA Champions League 2024/25,AC Milan,Liverpool,1,3
+2025,UEFA Champions League 2024/25,Bologna FC 1909,FK Shakhtar Donetsk,0,0
+2025,UEFA Champions League 2024/25,AC Sparta Praha,FC Red Bull Salzburg,3,0
+2025,UEFA Champions League 2024/25,Manchester City,Inter de Milán,0,0
+2025,UEFA Champions League 2024/25,Paris Saint-Germain,Girona FC,1,0
+2025,UEFA Champions League 2024/25,Club Brugge KV,Borussia Dortmund,0,3
+2025,UEFA Champions League 2024/25,Celtic FC,ŠK Slovan Bratislava,5,1
+2025,UEFA Champions League 2024/25,Feyenoord Rotterdam,Bayer 04 Leverkusen,0,4
+2025,UEFA Champions League 2024/25,FK Crvena Zvezda,SL Benfica,1,2
+2025,UEFA Champions League 2024/25,AS Monaco FC,FC Barcelona,2,1
+2025,UEFA Champions League 2024/25,Stade Brestois 29,SK Sturm Graz,2,1
+2025,UEFA Champions League 2024/25,Atalanta BC,Arsenal,0,0
+2025,UEFA Champions League 2024/25,Atlético de Madrid,RB Leipzig,2,1
+2025,UEFA Champions League 2024/25,VfB Stuttgart,AC Sparta Praha,1,1
+2025,UEFA Champions League 2024/25,FC Red Bull Salzburg,Stade Brestois 29,0,4
+2025,UEFA Champions League 2024/25,ŠK Slovan Bratislava,Manchester City,0,4
+2025,UEFA Champions League 2024/25,Borussia Dortmund,Celtic FC,7,1
+2025,UEFA Champions League 2024/25,FC Barcelona,BSC Young Boys,5,0
+2025,UEFA Champions League 2024/25,Inter de Milán,FK Crvena Zvezda,4,0
+2025,UEFA Champions League 2024/25,Bayer 04 Leverkusen,AC Milan,1,0
+2025,UEFA Champions League 2024/25,Arsenal,Paris Saint-Germain,2,0
+2025,UEFA Champions League 2024/25,PSV Eindhoven,Sporting CP,1,1
+2025,UEFA Champions League 2024/25,Girona FC,Feyenoord Rotterdam,2,3
+2025,UEFA Champions League 2024/25,FK Shakhtar Donetsk,Atalanta BC,0,3
+2025,UEFA Champions League 2024/25,Aston Villa FC,Bayern Múnich,1,0
+2025,UEFA Champions League 2024/25,SK Sturm Graz,Club Brugge KV,0,1
+2025,UEFA Champions League 2024/25,Liverpool,Bologna FC 1909,2,0
+2025,UEFA Champions League 2024/25,RB Leipzig,Juventus,2,3
+2025,UEFA Champions League 2024/25,SL Benfica,Atlético de Madrid,4,0
+2025,UEFA Champions League 2024/25,GNK Dinamo Zagreb,AS Monaco FC,2,2
+2025,UEFA Champions League 2024/25,Lille OSC,Real Madrid,1,0
+2025,UEFA Champions League 2024/25,AS Monaco FC,FK Crvena Zvezda,5,1
+2025,UEFA Champions League 2024/25,AC Milan,Club Brugge KV,3,1
+2025,UEFA Champions League 2024/25,Aston Villa FC,Bologna FC 1909,2,0
+2025,UEFA Champions League 2024/25,Girona FC,ŠK Slovan Bratislava,2,0
+2025,UEFA Champions League 2024/25,SK Sturm Graz,Sporting CP,0,2
+2025,UEFA Champions League 2024/25,Paris Saint-Germain,PSV Eindhoven,1,1
+2025,UEFA Champions League 2024/25,Real Madrid,Borussia Dortmund,5,2
+2025,UEFA Champions League 2024/25,Arsenal,FK Shakhtar Donetsk,1,0
+2025,UEFA Champions League 2024/25,Juventus,VfB Stuttgart,0,1
+2025,UEFA Champions League 2024/25,Stade Brestois 29,Bayer 04 Leverkusen,1,1
+2025,UEFA Champions League 2024/25,Atalanta BC,Celtic FC,0,0
+2025,UEFA Champions League 2024/25,BSC Young Boys,Inter de Milán,0,1
+2025,UEFA Champions League 2024/25,FC Barcelona,Bayern Múnich,4,1
+2025,UEFA Champions League 2024/25,Manchester City,AC Sparta Praha,5,0
+2025,UEFA Champions League 2024/25,RB Leipzig,Liverpool,0,1
+2025,UEFA Champions League 2024/25,Atlético de Madrid,Lille OSC,1,3
+2025,UEFA Champions League 2024/25,SL Benfica,Feyenoord Rotterdam,1,3
+2025,UEFA Champions League 2024/25,FC Red Bull Salzburg,GNK Dinamo Zagreb,0,2
+2025,UEFA Champions League 2024/25,ŠK Slovan Bratislava,GNK Dinamo Zagreb,1,4
+2025,UEFA Champions League 2024/25,PSV Eindhoven,Girona FC,4,0
+2025,UEFA Champions League 2024/25,Sporting CP,Manchester City,4,1
+2025,UEFA Champions League 2024/25,Bologna FC 1909,AS Monaco FC,0,1
+2025,UEFA Champions League 2024/25,Borussia Dortmund,SK Sturm Graz,1,0
+2025,UEFA Champions League 2024/25,Liverpool,Bayer 04 Leverkusen,4,0
+2025,UEFA Champions League 2024/25,Real Madrid,AC Milan,1,3
+2025,UEFA Champions League 2024/25,Celtic FC,RB Leipzig,3,1
+2025,UEFA Champions League 2024/25,Lille OSC,Juventus,1,1
+2025,UEFA Champions League 2024/25,Club Brugge KV,Aston Villa FC,1,0
+2025,UEFA Champions League 2024/25,FK Shakhtar Donetsk,BSC Young Boys,2,1
+2025,UEFA Champions League 2024/25,AC Sparta Praha,Stade Brestois 29,1,2
+2025,UEFA Champions League 2024/25,VfB Stuttgart,Atalanta BC,0,2
+2025,UEFA Champions League 2024/25,Inter de Milán,Arsenal,1,0
+2025,UEFA Champions League 2024/25,Paris Saint-Germain,Atlético de Madrid,1,2
+2025,UEFA Champions League 2024/25,Feyenoord Rotterdam,FC Red Bull Salzburg,1,3
+2025,UEFA Champions League 2024/25,FK Crvena Zvezda,FC Barcelona,2,5
+2025,UEFA Champions League 2024/25,Bayern Múnich,SL Benfica,1,0
+2025,UEFA Champions League 2024/25,ŠK Slovan Bratislava,AC Milan,2,3
+2025,UEFA Champions League 2024/25,AC Sparta Praha,Atlético de Madrid,0,6
+2025,UEFA Champions League 2024/25,Sporting CP,Arsenal,1,5
+2025,UEFA Champions League 2024/25,BSC Young Boys,Atalanta BC,1,6
+2025,UEFA Champions League 2024/25,Bayern Múnich,Paris Saint-Germain,1,0
+2025,UEFA Champions League 2024/25,FC Barcelona,Stade Brestois 29,3,0
+2025,UEFA Champions League 2024/25,Inter de Milán,RB Leipzig,1,0
+2025,UEFA Champions League 2024/25,Manchester City,Feyenoord Rotterdam,3,3
+2025,UEFA Champions League 2024/25,Bayer 04 Leverkusen,FC Red Bull Salzburg,5,0
+2025,UEFA Champions League 2024/25,SK Sturm Graz,Girona FC,1,0
+2025,UEFA Champions League 2024/25,FK Crvena Zvezda,VfB Stuttgart,5,1
+2025,UEFA Champions League 2024/25,AS Monaco FC,SL Benfica,2,3
+2025,UEFA Champions League 2024/25,Aston Villa FC,Juventus,0,0
+2025,UEFA Champions League 2024/25,Bologna FC 1909,Lille OSC,1,2
+2025,UEFA Champions League 2024/25,Liverpool,Real Madrid,2,0
+2025,UEFA Champions League 2024/25,Celtic FC,Club Brugge KV,1,1
+2025,UEFA Champions League 2024/25,GNK Dinamo Zagreb,Borussia Dortmund,0,3
+2025,UEFA Champions League 2024/25,PSV Eindhoven,FK Shakhtar Donetsk,3,2
+2025,UEFA Champions League 2024/25,Girona FC,Liverpool,0,1
+2025,UEFA Champions League 2024/25,GNK Dinamo Zagreb,Celtic FC,0,0
+2025,UEFA Champions League 2024/25,Stade Brestois 29,PSV Eindhoven,1,0
+2025,UEFA Champions League 2024/25,RB Leipzig,Aston Villa FC,2,3
+2025,UEFA Champions League 2024/25,Atalanta BC,Real Madrid,2,3
+2025,UEFA Champions League 2024/25,Bayer 04 Leverkusen,Inter de Milán,1,0
+2025,UEFA Champions League 2024/25,Club Brugge KV,Sporting CP,2,1
+2025,UEFA Champions League 2024/25,FK Shakhtar Donetsk,Bayern Múnich,1,5
+2025,UEFA Champions League 2024/25,FC Red Bull Salzburg,Paris Saint-Germain,0,3
+2025,UEFA Champions League 2024/25,Atlético de Madrid,ŠK Slovan Bratislava,3,1
+2025,UEFA Champions League 2024/25,Lille OSC,SK Sturm Graz,3,2
+2025,UEFA Champions League 2024/25,VfB Stuttgart,BSC Young Boys,5,1
+2025,UEFA Champions League 2024/25,Borussia Dortmund,FC Barcelona,2,3
+2025,UEFA Champions League 2024/25,AC Milan,FK Crvena Zvezda,2,1
+2025,UEFA Champions League 2024/25,SL Benfica,Bologna FC 1909,0,0
+2025,UEFA Champions League 2024/25,Arsenal,AS Monaco FC,3,0
+2025,UEFA Champions League 2024/25,Juventus,Manchester City,2,0
+2025,UEFA Champions League 2024/25,Feyenoord Rotterdam,AC Sparta Praha,4,2
+2025,UEFA Champions League 2024/25,AS Monaco FC,Aston Villa FC,1,0
+2025,UEFA Champions League 2024/25,Atalanta BC,SK Sturm Graz,5,0
+2025,UEFA Champions League 2024/25,Bologna FC 1909,Borussia Dortmund,2,1
+2025,UEFA Champions League 2024/25,ŠK Slovan Bratislava,VfB Stuttgart,1,3
+2025,UEFA Champions League 2024/25,Liverpool,Lille OSC,2,1
+2025,UEFA Champions League 2024/25,Atlético de Madrid,Bayer 04 Leverkusen,2,1
+2025,UEFA Champions League 2024/25,SL Benfica,FC Barcelona,4,5
+2025,UEFA Champions League 2024/25,Club Brugge KV,Juventus,0,0
+2025,UEFA Champions League 2024/25,FK Crvena Zvezda,PSV Eindhoven,2,3
+2025,UEFA Champions League 2024/25,RB Leipzig,Sporting CP,2,1
+2025,UEFA Champions League 2024/25,FK Shakhtar Donetsk,Stade Brestois 29,2,0
+2025,UEFA Champions League 2024/25,AC Sparta Praha,Inter de Milán,0,1
+2025,UEFA Champions League 2024/25,Paris Saint-Germain,Manchester City,4,2
+2025,UEFA Champions League 2024/25,Real Madrid,FC Red Bull Salzburg,5,1
+2025,UEFA Champions League 2024/25,AC Milan,Girona FC,1,0
+2025,UEFA Champions League 2024/25,Arsenal,GNK Dinamo Zagreb,3,0
+2025,UEFA Champions League 2024/25,Celtic FC,BSC Young Boys,1,0
+2025,UEFA Champions League 2024/25,Feyenoord Rotterdam,Bayern Múnich,3,0
+2025,UEFA Champions League 2024/25,Sporting CP,Bologna FC 1909,1,1
+2025,UEFA Champions League 2024/25,BSC Young Boys,FK Crvena Zvezda,0,1
+2025,UEFA Champions League 2024/25,Aston Villa FC,Celtic FC,4,2
+2025,UEFA Champions League 2024/25,Girona FC,Arsenal,1,2
+2025,UEFA Champions League 2024/25,Stade Brestois 29,Real Madrid,0,3
+2025,UEFA Champions League 2024/25,SK Sturm Graz,RB Leipzig,1,0
+2025,UEFA Champions League 2024/25,VfB Stuttgart,Paris Saint-Germain,1,4
+2025,UEFA Champions League 2024/25,Bayern Múnich,ŠK Slovan Bratislava,3,1
+2025,UEFA Champions League 2024/25,Borussia Dortmund,FK Shakhtar Donetsk,3,1
+2025,UEFA Champions League 2024/25,FC Barcelona,Atalanta BC,2,2
+2025,UEFA Champions League 2024/25,Inter de Milán,AS Monaco FC,3,0
+2025,UEFA Champions League 2024/25,Manchester City,Club Brugge KV,3,1
+2025,UEFA Champions League 2024/25,Bayer 04 Leverkusen,AC Sparta Praha,2,0
+2025,UEFA Champions League 2024/25,Juventus,SL Benfica,0,2
+2025,UEFA Champions League 2024/25,GNK Dinamo Zagreb,AC Milan,2,1
+2025,UEFA Champions League 2024/25,Lille OSC,Feyenoord Rotterdam,6,1
+2025,UEFA Champions League 2024/25,PSV Eindhoven,Liverpool,3,2
+2025,UEFA Champions League 2024/25,FC Red Bull Salzburg,Atlético de Madrid,1,4
+2025,UEFA Champions League 2024/25,Stade Brestois 29,Paris Saint-Germain,0,3
+2025,UEFA Champions League 2024/25,Manchester City,Real Madrid,2,3
+2025,UEFA Champions League 2024/25,Juventus,PSV Eindhoven,2,1
+2025,UEFA Champions League 2024/25,Sporting CP,Borussia Dortmund,0,3
+2025,UEFA Champions League 2024/25,Club Brugge KV,Atalanta BC,2,1
+2025,UEFA Champions League 2024/25,AS Monaco FC,SL Benfica,0,1
+2025,UEFA Champions League 2024/25,Celtic FC,Bayern Múnich,1,2
+2025,UEFA Champions League 2024/25,Feyenoord Rotterdam,AC Milan,1,0
+2025,UEFA Champions League 2024/25,AC Milan,Feyenoord Rotterdam,1,1
+2025,UEFA Champions League 2024/25,SL Benfica,AS Monaco FC,3,3
+2025,UEFA Champions League 2024/25,Bayern Múnich,Celtic FC,1,1
+2025,UEFA Champions League 2024/25,Atalanta BC,Club Brugge KV,1,3
+2025,UEFA Champions League 2024/25,Borussia Dortmund,Sporting CP,0,0
+2025,UEFA Champions League 2024/25,Paris Saint-Germain,Stade Brestois 29,7,0
+2025,UEFA Champions League 2024/25,Real Madrid,Manchester City,3,1
+2025,UEFA Champions League 2024/25,PSV Eindhoven,Juventus,3,1
+2025,UEFA Champions League 2024/25,Club Brugge KV,Aston Villa FC,1,3
+2025,UEFA Champions League 2024/25,Real Madrid,Atlético de Madrid,2,1
+2025,UEFA Champions League 2024/25,PSV Eindhoven,Arsenal,1,7
+2025,UEFA Champions League 2024/25,Borussia Dortmund,Lille OSC,1,1
+2025,UEFA Champions League 2024/25,Feyenoord Rotterdam,Inter de Milán,0,2
+2025,UEFA Champions League 2024/25,Paris Saint-Germain,Liverpool,0,1
+2025,UEFA Champions League 2024/25,Bayern Múnich,Bayer 04 Leverkusen,3,0
+2025,UEFA Champions League 2024/25,SL Benfica,FC Barcelona,0,1
+2025,UEFA Champions League 2024/25,FC Barcelona,SL Benfica,3,1
+2025,UEFA Champions League 2024/25,Liverpool,Paris Saint-Germain,1,4
+2025,UEFA Champions League 2024/25,Inter de Milán,Feyenoord Rotterdam,2,1
+2025,UEFA Champions League 2024/25,Bayer 04 Leverkusen,Bayern Múnich,0,2
+2025,UEFA Champions League 2024/25,Lille OSC,Borussia Dortmund,1,2
+2025,UEFA Champions League 2024/25,Aston Villa FC,Club Brugge KV,3,0
+2025,UEFA Champions League 2024/25,Atlético de Madrid,Real Madrid,2,4
+2025,UEFA Champions League 2024/25,Arsenal,PSV Eindhoven,2,2
+2025,UEFA Champions League 2024/25,Arsenal,Real Madrid,3,0
+2025,UEFA Champions League 2024/25,Bayern Múnich,Inter de Milán,1,2
+2025,UEFA Champions League 2024/25,Paris Saint-Germain,Aston Villa FC,3,1
+2025,UEFA Champions League 2024/25,FC Barcelona,Borussia Dortmund,4,0
+2025,UEFA Champions League 2024/25,Aston Villa FC,Paris Saint-Germain,3,2
+2025,UEFA Champions League 2024/25,Borussia Dortmund,FC Barcelona,3,1
+2025,UEFA Champions League 2024/25,Real Madrid,Arsenal,1,2
+2025,UEFA Champions League 2024/25,Inter de Milán,Bayern Múnich,2,2
+2025,UEFA Champions League 2024/25,Arsenal,Paris Saint-Germain,0,1
+2025,UEFA Champions League 2024/25,FC Barcelona,Inter de Milán,3,3
+2025,UEFA Champions League 2024/25,Inter de Milán,FC Barcelona,4,3
+2025,UEFA Champions League 2024/25,Paris Saint-Germain,Arsenal,2,1
+2025,UEFA Champions League 2024/25,Paris Saint-Germain,Inter de Milán,5,0
+2026,UEFA Champions League 2025/26,Athletic Club,Arsenal,0,2
+2026,UEFA Champions League 2025/26,PSV Eindhoven,Royale Union Saint-Gilloise,1,3
+2026,UEFA Champions League 2025/26,Juventus,Borussia Dortmund,4,4
+2026,UEFA Champions League 2025/26,SL Benfica,Qarabağ Ağdam FK,2,3
+2026,UEFA Champions League 2025/26,Tottenham Hotspur FC,Villarreal CF,1,0
+2026,UEFA Champions League 2025/26,Real Madrid,Olympique de Marseille,2,1
+2026,UEFA Champions League 2025/26,SK Slavia Praha,FK Bodø/Glimt,2,2
+2026,UEFA Champions League 2025/26,PAE Olympiakos SFP,Paphos FC,0,0
+2026,UEFA Champions League 2025/26,AFC Ajax,Inter de Milán,0,2
+2026,UEFA Champions League 2025/26,Liverpool,Atlético de Madrid,3,2
+2026,UEFA Champions League 2025/26,Paris Saint-Germain,Atalanta BC,4,0
+2026,UEFA Champions League 2025/26,Bayern Múnich,Chelsea FC,3,1
+2026,UEFA Champions League 2025/26,FC København,Bayer 04 Leverkusen,2,2
+2026,UEFA Champions League 2025/26,Club Brugge KV,AS Monaco FC,4,1
+2026,UEFA Champions League 2025/26,Newcastle United FC,FC Barcelona,1,2
+2026,UEFA Champions League 2025/26,Manchester City,SSC Napoli,2,0
+2026,UEFA Champions League 2025/26,Eintracht Frankfurt,Galatasaray SK,5,1
+2026,UEFA Champions League 2025/26,Sporting CP,FK Kairat,4,1
+2026,UEFA Champions League 2025/26,Atalanta BC,Club Brugge KV,2,1
+2026,UEFA Champions League 2025/26,FK Kairat,Real Madrid,0,5
+2026,UEFA Champions League 2025/26,Galatasaray SK,Liverpool,1,0
+2026,UEFA Champions League 2025/26,Atlético de Madrid,Eintracht Frankfurt,5,1
+2026,UEFA Champions League 2025/26,Olympique de Marseille,AFC Ajax,4,0
+2026,UEFA Champions League 2025/26,FK Bodø/Glimt,Tottenham Hotspur FC,2,2
+2026,UEFA Champions League 2025/26,Paphos FC,Bayern Múnich,1,5
+2026,UEFA Champions League 2025/26,Chelsea FC,SL Benfica,1,0
+2026,UEFA Champions League 2025/26,Inter de Milán,SK Slavia Praha,3,0
+2026,UEFA Champions League 2025/26,Qarabağ Ağdam FK,FC København,2,0
+2026,UEFA Champions League 2025/26,Royale Union Saint-Gilloise,Newcastle United FC,0,4
+2026,UEFA Champions League 2025/26,Borussia Dortmund,Athletic Club,4,1
+2026,UEFA Champions League 2025/26,FC Barcelona,Paris Saint-Germain,1,2
+2026,UEFA Champions League 2025/26,AS Monaco FC,Manchester City,2,2
+2026,UEFA Champions League 2025/26,Bayer 04 Leverkusen,PSV Eindhoven,1,1
+2026,UEFA Champions League 2025/26,Arsenal,PAE Olympiakos SFP,2,0
+2026,UEFA Champions League 2025/26,Villarreal CF,Juventus,2,2
+2026,UEFA Champions League 2025/26,SSC Napoli,Sporting CP,2,1
+2026,UEFA Champions League 2025/26,FC Barcelona,PAE Olympiakos SFP,6,1
+2026,UEFA Champions League 2025/26,FK Kairat,Paphos FC,0,0
+2026,UEFA Champions League 2025/26,Royale Union Saint-Gilloise,Inter de Milán,0,4
+2026,UEFA Champions League 2025/26,FC København,Borussia Dortmund,2,4
+2026,UEFA Champions League 2025/26,Bayer 04 Leverkusen,Paris Saint-Germain,2,7
+2026,UEFA Champions League 2025/26,Villarreal CF,Manchester City,0,2
+2026,UEFA Champions League 2025/26,Arsenal,Atlético de Madrid,4,0
+2026,UEFA Champions League 2025/26,Newcastle United FC,SL Benfica,3,0
+2026,UEFA Champions League 2025/26,PSV Eindhoven,SSC Napoli,6,2
+2026,UEFA Champions League 2025/26,Galatasaray SK,FK Bodø/Glimt,3,1
+2026,UEFA Champions League 2025/26,Athletic Club,Qarabağ Ağdam FK,3,1
+2026,UEFA Champions League 2025/26,Eintracht Frankfurt,Liverpool,1,5
+2026,UEFA Champions League 2025/26,Atalanta BC,SK Slavia Praha,0,0
+2026,UEFA Champions League 2025/26,Sporting CP,Olympique de Marseille,2,1
+2026,UEFA Champions League 2025/26,AS Monaco FC,Tottenham Hotspur FC,0,0
+2026,UEFA Champions League 2025/26,Bayern Múnich,Club Brugge KV,4,0
+2026,UEFA Champions League 2025/26,Chelsea FC,AFC Ajax,5,1
+2026,UEFA Champions League 2025/26,Real Madrid,Juventus,1,0
+2026,UEFA Champions League 2025/26,SK Slavia Praha,Arsenal,0,3
+2026,UEFA Champions League 2025/26,SSC Napoli,Eintracht Frankfurt,0,0
+2026,UEFA Champions League 2025/26,Juventus,Sporting CP,1,1
+2026,UEFA Champions League 2025/26,Atlético de Madrid,Royale Union Saint-Gilloise,3,1
+2026,UEFA Champions League 2025/26,Tottenham Hotspur FC,FC København,4,0
+2026,UEFA Champions League 2025/26,FK Bodø/Glimt,AS Monaco FC,0,1
+2026,UEFA Champions League 2025/26,PAE Olympiakos SFP,PSV Eindhoven,1,1
+2026,UEFA Champions League 2025/26,Paris Saint-Germain,Bayern Múnich,1,2
+2026,UEFA Champions League 2025/26,Liverpool,Real Madrid,1,0
+2026,UEFA Champions League 2025/26,Paphos FC,Villarreal CF,1,0
+2026,UEFA Champions League 2025/26,Qarabağ Ağdam FK,Chelsea FC,2,2
+2026,UEFA Champions League 2025/26,Inter de Milán,FK Kairat,2,1
+2026,UEFA Champions League 2025/26,Manchester City,Borussia Dortmund,4,1
+2026,UEFA Champions League 2025/26,Club Brugge KV,FC Barcelona,3,3
+2026,UEFA Champions League 2025/26,SL Benfica,Bayer 04 Leverkusen,0,1
+2026,UEFA Champions League 2025/26,Olympique de Marseille,Atalanta BC,0,1
+2026,UEFA Champions League 2025/26,AFC Ajax,Galatasaray SK,0,3
+2026,UEFA Champions League 2025/26,Newcastle United FC,Athletic Club,2,0
+2026,UEFA Champions League 2025/26,AFC Ajax,SL Benfica,0,2
+2026,UEFA Champions League 2025/26,Galatasaray SK,Royale Union Saint-Gilloise,0,1
+2026,UEFA Champions League 2025/26,Borussia Dortmund,Villarreal CF,4,0
+2026,UEFA Champions League 2025/26,Manchester City,Bayer 04 Leverkusen,0,2
+2026,UEFA Champions League 2025/26,FK Bodø/Glimt,Juventus,2,3
+2026,UEFA Champions League 2025/26,Olympique de Marseille,Newcastle United FC,2,1
+2026,UEFA Champions League 2025/26,SK Slavia Praha,Athletic Club,0,0
+2026,UEFA Champions League 2025/26,SSC Napoli,Qarabağ Ağdam FK,2,0
+2026,UEFA Champions League 2025/26,Chelsea FC,FC Barcelona,3,0
+2026,UEFA Champions League 2025/26,Paphos FC,AS Monaco FC,2,2
+2026,UEFA Champions League 2025/26,FC København,FK Kairat,3,2
+2026,UEFA Champions League 2025/26,Liverpool,PSV Eindhoven,1,4
+2026,UEFA Champions League 2025/26,Paris Saint-Germain,Tottenham Hotspur FC,5,3
+2026,UEFA Champions League 2025/26,Eintracht Frankfurt,Atalanta BC,0,3
+2026,UEFA Champions League 2025/26,Sporting CP,Club Brugge KV,3,0
+2026,UEFA Champions League 2025/26,Arsenal,Bayern Múnich,3,1
+2026,UEFA Champions League 2025/26,PAE Olympiakos SFP,Real Madrid,3,4
+2026,UEFA Champions League 2025/26,Atlético de Madrid,Inter de Milán,2,1
+2026,UEFA Champions League 2025/26,FK Kairat,PAE Olympiakos SFP,0,1
+2026,UEFA Champions League 2025/26,Bayern Múnich,Sporting CP,3,1
+2026,UEFA Champions League 2025/26,FC Barcelona,Eintracht Frankfurt,2,1
+2026,UEFA Champions League 2025/26,PSV Eindhoven,Atlético de Madrid,2,3
+2026,UEFA Champions League 2025/26,Royale Union Saint-Gilloise,Olympique de Marseille,2,3
+2026,UEFA Champions League 2025/26,Tottenham Hotspur FC,SK Slavia Praha,3,0
+2026,UEFA Champions League 2025/26,AS Monaco FC,Galatasaray SK,1,0
+2026,UEFA Champions League 2025/26,Atalanta BC,Chelsea FC,2,1
+2026,UEFA Champions League 2025/26,Inter de Milán,Liverpool,0,1
+2026,UEFA Champions League 2025/26,Villarreal CF,FC København,2,3
+2026,UEFA Champions League 2025/26,Qarabağ Ağdam FK,AFC Ajax,2,4
+2026,UEFA Champions League 2025/26,Borussia Dortmund,FK Bodø/Glimt,2,2
+2026,UEFA Champions League 2025/26,Athletic Club,Paris Saint-Germain,0,0
+2026,UEFA Champions League 2025/26,Bayer 04 Leverkusen,Newcastle United FC,2,2
+2026,UEFA Champions League 2025/26,Club Brugge KV,Arsenal,0,3
+2026,UEFA Champions League 2025/26,SL Benfica,SSC Napoli,2,0
+2026,UEFA Champions League 2025/26,Juventus,Paphos FC,2,0
+2026,UEFA Champions League 2025/26,Real Madrid,Manchester City,1,2
+2026,UEFA Champions League 2025/26,FK Kairat,Club Brugge KV,1,4
+2026,UEFA Champions League 2025/26,FK Bodø/Glimt,Manchester City,3,1
+2026,UEFA Champions League 2025/26,Tottenham Hotspur FC,Borussia Dortmund,2,0
+2026,UEFA Champions League 2025/26,Sporting CP,Paris Saint-Germain,2,1
+2026,UEFA Champions League 2025/26,PAE Olympiakos SFP,Bayer 04 Leverkusen,2,0
+2026,UEFA Champions League 2025/26,Villarreal CF,AFC Ajax,1,2
+2026,UEFA Champions League 2025/26,FC København,SSC Napoli,1,1
+2026,UEFA Champions League 2025/26,Real Madrid,AS Monaco FC,6,1
+2026,UEFA Champions League 2025/26,Inter de Milán,Arsenal,1,3
+2026,UEFA Champions League 2025/26,Qarabağ Ağdam FK,Eintracht Frankfurt,3,2
+2026,UEFA Champions League 2025/26,Galatasaray SK,Atlético de Madrid,1,1
+2026,UEFA Champions League 2025/26,Olympique de Marseille,Liverpool,0,3
+2026,UEFA Champions League 2025/26,SK Slavia Praha,FC Barcelona,2,4
+2026,UEFA Champions League 2025/26,Atalanta BC,Athletic Club,2,3
+2026,UEFA Champions League 2025/26,Juventus,SL Benfica,2,0
+2026,UEFA Champions League 2025/26,Newcastle United FC,PSV Eindhoven,3,0
+2026,UEFA Champions League 2025/26,Bayern Múnich,Royale Union Saint-Gilloise,2,0
+2026,UEFA Champions League 2025/26,Chelsea FC,Paphos FC,1,0
+2026,UEFA Champions League 2025/26,Liverpool,Qarabağ Ağdam FK,6,0
+2026,UEFA Champions League 2025/26,FC Barcelona,FC København,4,1
+2026,UEFA Champions League 2025/26,Manchester City,Galatasaray SK,2,0
+2026,UEFA Champions League 2025/26,Bayer 04 Leverkusen,Villarreal CF,3,0
+2026,UEFA Champions League 2025/26,Arsenal,FK Kairat,3,2
+2026,UEFA Champions League 2025/26,Royale Union Saint-Gilloise,Atalanta BC,1,0
+2026,UEFA Champions League 2025/26,Club Brugge KV,Olympique de Marseille,3,0
+2026,UEFA Champions League 2025/26,Eintracht Frankfurt,Tottenham Hotspur FC,0,2
+2026,UEFA Champions League 2025/26,AS Monaco FC,Juventus,0,0
+2026,UEFA Champions League 2025/26,Atlético de Madrid,FK Bodø/Glimt,1,2
+2026,UEFA Champions League 2025/26,Athletic Club,Sporting CP,2,3
+2026,UEFA Champions League 2025/26,AFC Ajax,PAE Olympiakos SFP,1,2
+2026,UEFA Champions League 2025/26,Paris Saint-Germain,Newcastle United FC,1,1
+2026,UEFA Champions League 2025/26,Paphos FC,SK Slavia Praha,4,1
+2026,UEFA Champions League 2025/26,PSV Eindhoven,Bayern Múnich,1,2
+2026,UEFA Champions League 2025/26,SSC Napoli,Chelsea FC,2,3
+2026,UEFA Champions League 2025/26,SL Benfica,Real Madrid,4,2
+2026,UEFA Champions League 2025/26,Borussia Dortmund,Inter de Milán,0,2
+2026,UEFA Champions League 2025/26,Galatasaray SK,Juventus,5,2
+2026,UEFA Champions League 2025/26,SL Benfica,Real Madrid,0,1
+2026,UEFA Champions League 2025/26,AS Monaco FC,Paris Saint-Germain,2,3
+2026,UEFA Champions League 2025/26,Borussia Dortmund,Atalanta BC,2,0
+2026,UEFA Champions League 2025/26,Qarabağ Ağdam FK,Newcastle United FC,1,6
+2026,UEFA Champions League 2025/26,Club Brugge KV,Atlético de Madrid,3,3
+2026,UEFA Champions League 2025/26,PAE Olympiakos SFP,Bayer 04 Leverkusen,0,2
+2026,UEFA Champions League 2025/26,FK Bodø/Glimt,Inter de Milán,3,1
+2026,UEFA Champions League 2025/26,Atlético de Madrid,Club Brugge KV,4,1
+2026,UEFA Champions League 2025/26,Newcastle United FC,Qarabağ Ağdam FK,3,2
+2026,UEFA Champions League 2025/26,Bayer 04 Leverkusen,PAE Olympiakos SFP,0,0
+2026,UEFA Champions League 2025/26,Inter de Milán,FK Bodø/Glimt,1,2
+2026,UEFA Champions League 2025/26,Atalanta BC,Borussia Dortmund,4,1
+2026,UEFA Champions League 2025/26,Real Madrid,SL Benfica,2,1
+2026,UEFA Champions League 2025/26,Paris Saint-Germain,AS Monaco FC,2,2
+2026,UEFA Champions League 2025/26,Juventus,Galatasaray SK,3,2
+2026,UEFA Champions League 2025/26,Atalanta BC,Bayern Múnich,1,6
+2026,UEFA Champions League 2025/26,Newcastle United FC,FC Barcelona,1,1
+2026,UEFA Champions League 2025/26,Atlético de Madrid,Tottenham Hotspur FC,5,2
+2026,UEFA Champions League 2025/26,Bayer 04 Leverkusen,Arsenal,1,1
+2026,UEFA Champions League 2025/26,Paris Saint-Germain,Chelsea FC,5,2
+2026,UEFA Champions League 2025/26,Real Madrid,Manchester City,3,0
+2026,UEFA Champions League 2025/26,FK Bodø/Glimt,Sporting CP,3,0
+2026,UEFA Champions League 2025/26,Sporting CP,FK Bodø/Glimt,5,0
+2026,UEFA Champions League 2025/26,Chelsea FC,Paris Saint-Germain,0,3
+2026,UEFA Champions League 2025/26,Manchester City,Real Madrid,1,2
+2026,UEFA Champions League 2025/26,Arsenal,Bayer 04 Leverkusen,2,0
+2026,UEFA Champions League 2025/26,FC Barcelona,Newcastle United FC,7,2
+2026,UEFA Champions League 2025/26,Liverpool,Galatasaray SK,4,0
+2026,UEFA Champions League 2025/26,Bayern Múnich,Atalanta BC,4,1
+2026,UEFA Champions League 2025/26,Tottenham Hotspur FC,Atlético de Madrid,3,2
+2026,UEFA Champions League 2025/26,Real Madrid,Bayern Múnich,1,2
+2026,UEFA Champions League 2025/26,Sporting CP,Arsenal,0,1
+2026,UEFA Champions League 2025/26,Paris Saint-Germain,Liverpool,2,0
+2026,UEFA Champions League 2025/26,FC Barcelona,Atlético de Madrid,0,2
+2026,UEFA Champions League 2025/26,Liverpool,Paris Saint-Germain,0,2
+2026,UEFA Champions League 2025/26,Atlético de Madrid,FC Barcelona,1,2
+2026,UEFA Champions League 2025/26,Bayern Múnich,Real Madrid,4,3
+2026,UEFA Champions League 2025/26,Arsenal,Sporting CP,0,0
+2026,UEFA Champions League 2025/26,Paris Saint-Germain,Bayern Múnich,5,4
+2026,UEFA Champions League 2025/26,Atlético de Madrid,Arsenal,1,1
+2026,UEFA Champions League 2025/26,Arsenal,Atlético de Madrid,1,0
+2026,UEFA Champions League 2025/26,Bayern Múnich,Paris Saint-Germain,1,1
+2026,UEFA Champions League 2025/26,Paris Saint-Germain,Arsenal,4,3
