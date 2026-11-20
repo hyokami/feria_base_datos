@@ -13,28 +13,105 @@ function irDesdeTarjeta(idSeccion) {
   mostrarSeccion(idSeccion, botones[mapa[idSeccion]]);
 }
 
-// --- DEMO VISUAL CHAMPIONS (Luego se conecta a /api/champions/simular) ---
-function guardarPrediccionChampions() {
-  const alias = document.getElementById('aliasInput').value || 'Visitante';
-  const equipo = document.getElementById('equipoUsuario').value;
-  document.getElementById('msgChampions').textContent = 
-    `✓ Predicción guardada para ${alias}: ${equipo}.`;
+// --- CONEXIÓN REAL CHAMPIONS (FastAPI + SQLite + Monte Carlo) ---
+const API_CHAMPIONS = "http://127.0.0.1:8000/api/champions";
+
+// Cargar los 16 equipos reales desde SQLite al abrir la página
+document.addEventListener("DOMContentLoaded", async () => {
+  const selectEquipo = document.getElementById("equipoUsuario");
+  if (!selectEquipo) return;
+
+  try {
+    const res = await fetch(`${API_CHAMPIONS}/equipos`);
+    if (!res.ok) return;
+    const equipos = await res.json();
+
+    selectEquipo.innerHTML = "";
+    equipos.forEach(eq => {
+      const opt = document.createElement("option");
+      opt.value = eq.id_equipo;
+      opt.textContent = `${eq.nombre} (Elo: ${Math.round(eq.puntaje_poder)})`;
+      selectEquipo.appendChild(opt);
+    });
+  } catch (error) {
+    console.warn("Backend de Champions apagado; se mantienen los equipos del HTML.");
+  }
+});
+
+async function guardarPrediccionChampions() {
+  const alias = document.getElementById("aliasInput").value.trim() || "Visitante";
+  const selectEquipo = document.getElementById("equipoUsuario");
+  const idEquipo = parseInt(selectEquipo.value) || 1;
+  const nombreEquipo = selectEquipo.options[selectEquipo.selectedIndex]?.text || "Equipo";
+  const temporada = parseInt(document.getElementById("temporadaSelect").value) || 2027;
+  const msg = document.getElementById("msgChampions");
+
+  try {
+    const res = await fetch(`${API_CHAMPIONS}/predecir`, {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({
+        id_usuario_global: alias,
+        id_equipo_campeon: idEquipo,
+        temporada: temporada
+      })
+    });
+
+    const data = await res.json();
+    msg.textContent = `✓ ${data.mensaje} (#${data.id_prediccion}) para ${alias}: ${nombreEquipo}.`;
+  } catch (error) {
+    msg.textContent = "⚠️ No se pudo conectar con la API de Champions (verifica que uvicorn esté encendido).";
+  }
 }
 
-function simularChampionsDemo() {
-  const temp = document.getElementById('temporadaSelect').value;
-  const bracket = document.getElementById('bracketResultado');
-  bracket.innerHTML = `
-    <div class="bracket-col">
-      <h4>Semifinales (${temp})</h4>
-      <div class="match-card">Real Madrid (54%) vs Bayern (46%)</div>
-      <div class="match-card">Man. City (58%) vs Arsenal (42%)</div>
-    </div>
-    <div class="bracket-col">
-      <h4>Campeón Simulado (${temp})</h4>
-      <div class="match-card highlight">🏆 Real Madrid (Prob. Monte Carlo: 31.4%)</div>
-    </div>
-  `;
+async function simularChampionsDemo() {
+  const temp = parseInt(document.getElementById("temporadaSelect").value) || 2027;
+  const bracket = document.getElementById("bracketResultado");
+  bracket.innerHTML = `<div class="bracket-col"><div class="match-card">Ejecutando 5,000 simulaciones Monte Carlo...</div></div>`;
+
+  try {
+    const res = await fetch(`${API_CHAMPIONS}/simular`, {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({
+        temporada: temp,
+        n_simulaciones: 5000
+      })
+    });
+
+    const data = await res.json();
+    let html = "";
+
+    // Recorre automáticamente Octavos, Cuartos, Semis y Final
+    for (const [fase, partidos] of Object.entries(data.arbol)) {
+      html += `<div class="bracket-col"><h4>${fase} (${temp})</h4>`;
+      partidos.forEach(p => {
+        const probB = (100 - p.prob_a).toFixed(1);
+        html += `
+          <div class="match-card">
+            ${p.equipo_a.nombre} (${p.prob_a}%) vs ${p.equipo_b.nombre} (${probB}%)
+            <br><small><strong>Avanza:</strong> ${p.ganador.nombre}</small>
+          </div>
+        `;
+      });
+      html += `</div>`;
+    }
+
+    // Columna del campeón
+    html += `
+      <div class="bracket-col">
+        <h4>Campeón Simulado (${temp})</h4>
+        <div class="match-card highlight">
+          🏆 ${data.campeon.nombre}<br>
+          <small>Elo: ${data.campeon.puntaje_poder}</small>
+        </div>
+      </div>
+    `;
+
+    bracket.innerHTML = html;
+  } catch (error) {
+    bracket.innerHTML = `<div class="bracket-col"><div class="match-card">⚠️ Error conectando con http://127.0.0.1:8000</div></div>`;
+  }
 }
 
 // --- DEMO VISUAL GACHAPÓN (Luego se conecta al backend de inventario) ---
